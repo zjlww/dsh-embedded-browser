@@ -1,7 +1,7 @@
 {
   "name": "dsh-embedded-browser",
-  "version": "0.3.0",
-  "description": "A browser that lives inside the DSH host: every session gets its own tab, the AI drives it with lazily published browser_embedded_* tools, and a human watches or takes over that same tab in an on-demand right-Sidebar tab — no GUI, no external browser, logins/2FA/QR codes/CAPTCHAs included.",
+  "version": "0.3.1-noether.1",
+  "description": "A browser that lives inside the DSH host: every session gets its own tab, the AI drives it with lazily published browser_embedded_* tools, and a human watches or takes over that same tab in an on-demand right-Sidebar tab \u2014 no GUI, no external browser, logins/2FA/QR codes/CAPTCHAs included.",
   "license": "MIT",
   "type": "module",
   "main": "lib/index.js",
